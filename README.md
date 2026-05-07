@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CC9,100:1F2937&height=220&section=header&text=Your%20Name&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Telecommunications%20Solutions&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CC9,100:1F2937&height=220&section=header&text=LEONARD_TOTH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Telecommunications%20Solutions&descAlignY=58" width="100%" />
 
 ### Software Developer • Open Sourverein Cloud • Game Development Enthusiast
 
