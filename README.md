@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CC9,100:1F2937&height=220&section=header&text=Your%20Name&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Telecommunications%20Solutions&descAlignY=58" width="100%" />
 
-### Software Developer • Telecommunications Solutions • Game Development Enthusiast
+### Software Developer • Open Sourverein Cloud • Game Development Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3200&pause=1000&color=4F8CC9&center=true&vCenter=true&width=800&lines=Software+Developer;Telecommunications+Solutions+Engineer;Backend+%26+Enterprise+Systems;Godot+%26+C%23+Developer;Building+Reliable+%26+Scalable+Systems" alt="Typing Animation" />
 
@@ -66,8 +66,8 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LE0TOTH&theme=github" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LE0TOTH&theme=github" height="180em" />
 
 </div>
 
@@ -75,7 +75,7 @@ Interests:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LE0TOTH&show_icons=true&theme=default&hide_border=true" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LE0TOTH&layout=compact&hide_border=true" />
 
@@ -96,7 +96,7 @@ Interests:
 
 | Area                    | Technologies              |
 | ----------------------- | ------------------------- |
-| Languages               | C#, Python, C++, GDScript |
+| Languages               | C#, Python, GDScript |
 | Frameworks & Tools      | .NET, Docker, Git         |
 | Game Development        | Godot Engine              |
 | Development Environment | VS Code, GitHub           |
@@ -127,7 +127,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=4F8CC9&line=4F8CC9&point=1F2937&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LE0TOTH&bg_color=ffffff&color=4F8CC9&line=4F8CC9&point=1F2937&hide_border=true" width="100%" />
 
 </div>
 
