@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Your Name
+# 👋 Hello, I'm Leonard Tóth
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LE0TOTH&theme=github" width="100%" />
 
 </div>
 
@@ -77,7 +77,7 @@ Interests:
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LE0TOTH&layout=compact&hide_border=true" />
 
 </div>
 
@@ -107,7 +107,7 @@ Interests:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/LE0TOTH">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
